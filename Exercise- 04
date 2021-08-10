@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+<TITLE> Inserindo linha horizontal </TITLE>
+</HEAD>
+
+<BODY>
+<HR>
+<B> Dados pessoais: </B> <BR>
+Nome: <BR>
+E-mail <BR>
+<HR>
+<B> Dados Bancários : </B> <BR>
+Banco : <BR>
+Agência <BR>
+Conta corrente: <BR>
+<HR>
+</BODY>
+</HTML>
